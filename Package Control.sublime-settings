@@ -1,6 +1,8 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TortoiseSVN"
 	],
 	"installed_packages":
 	[
@@ -26,6 +28,7 @@
 		"HTMLBeautify",
 		"INI",
 		"JavaScript Console",
+		"JavaScript Snippets",
 		"JsFormat",
 		"LESS",
 		"Line Endings Unify",
@@ -48,14 +51,17 @@
 		"SideBarEnhancements",
 		"SideBarGit",
 		"Smarty",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"SublimeLinter-phpcs",
 		"Sublimerge Pro",
 		"Symfony2 Snippets",
 		"Theme - Brogrammer",
 		"Theme - Flatland",
 		"Three.js Autocomplete",
+		"Titanium Build",
 		"TortoiseSVN",
 		"Twig",
 		"Unicode Character Highlighter"

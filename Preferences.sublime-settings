@@ -1,8 +1,6 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"theme": "Brogrammer.sublime-theme",
 	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 	"default_line_ending": "unix",
 	"detect_slow_plugins": false,
@@ -15,16 +13,17 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"INI",
-		"Vintage",
 		"Color Highlighter",
+		"EditorConfig",
+		"INI",
+		"Markdown",
 		"Theme - Flatland",
-		"EditorConfig"
+		"TortoiseSVN",
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"open_files_in_new_window": false,
@@ -35,10 +34,10 @@
 	"save_on_focus_lost": true,
 	"shift_tab_unindent": true,
 	"tab_size": 4,
+	"theme": "Brogrammer.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
-
 }
