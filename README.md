@@ -20,5 +20,3 @@ On each machine, clone this repo.
 On sublime text, `Ctrl`+`Alt`+`P` and type `Package Syncing: Define Sync Folder`. Select the git repo previously cloned.
 
 Restart Sublime Text
-
-# Hey, Salut  olivier !!!! :)
