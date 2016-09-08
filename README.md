@@ -21,3 +21,4 @@ On sublime text, `Ctrl`+`Alt`+`P` and type `Package Syncing: Define Sync Folder`
 
 Restart Sublime Text
 
+Test 2
