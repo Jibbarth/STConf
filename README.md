@@ -1,3 +1,7 @@
+# Deprecated 
+
+I use https://packagecontrol.io/packages/Sync%20Settings now. (For the me of the future, look at your gists for the configuration)
+
 # STConf
 My own Sublime Text configuration
 
